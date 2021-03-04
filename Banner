@@ -1,0 +1,7 @@
+echo "# Proyecto-IA1-UIS" >> README.md
+git init
+git add Banner.png
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MariaASerrano/Proyecto-IA1-UIS.git
+git push -u origin main
